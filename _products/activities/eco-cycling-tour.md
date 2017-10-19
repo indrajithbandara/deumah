@@ -1,7 +1,7 @@
 ---
 name: Eco Cycling tour
 subtitle: Enjoy the green surroundings
-description: #
+description: Head straight to Agro Luwak Coffee Plantation, enjoy a tea or Luwak coffee with Balinese cakes. Time to explore the coffee plantation and find the civet. Then to Suter village, from where our bicycle ride will start. Here you will enjoy the beautiful view of Mount Batur volcano and the crater Lake.
 product_group: activities
 many_pictures: true
 image: /assets/p/products/activities/eco-cycling-tour.jpg #for OG and twitter cards

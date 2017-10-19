@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sustainable
-description: #
+description: We have implemented a whole program to reduce our impact on the environment and save energy and water.
 image: /assets/p/home/08-lumbung.jpg
 ---
 # SUSTAINABILITY

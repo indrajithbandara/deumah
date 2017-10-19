@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms
-description: #
+description: Check-in, Check-out,Payment and Cancellation Policies details
 image: /assets/p/home/04-exterior.jpg
 ---
 # Terms and Conditions

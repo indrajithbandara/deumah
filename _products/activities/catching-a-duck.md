@@ -1,7 +1,7 @@
 ---
 name: Catching a duck
 subtitle: Fun farmer know how
-description: #
+description: Our staff will escort the children. A short walk to the location of the rice field where the hunt begins. There kids and adults will be assisted to catch a duck, as we say Ngejuk Bebek, in the mud field.
 product_group: activities
 many_pictures: true
 image: /assets/p/products/activities/catching-a-duck.jpg #for OG and twitter cards

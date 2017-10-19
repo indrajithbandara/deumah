@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About us
-description: #
+description: We are blending ecology and traditions. De Umah is carefully maintained to ensure it is kept as green and natural as possible. An healthy environment for guests and staff. We respect and work with the natural elements protecting and preserving the environment around our homestay.
 image: /assets/p/about/about-us.jpg
 ---
 # About us

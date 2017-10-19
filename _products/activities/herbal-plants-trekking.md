@@ -1,7 +1,7 @@
 ---
 name: Herbal Plants Trekking
 subtitle: Learn about Jamu plants
-description: #
+description: Plants have been the basis for medical treatments through much of human history and in rural Indonesia this activity is still widely practiced today. Our local guide will accompany you to explore some of herbal plants that grow around the village.
 product_group: activities
 many_pictures: true
 image: /assets/p/products/activities/herbal-plants-trekking.jpg #for OG and twitter cards
@@ -10,7 +10,7 @@ tour_days:
 tour_nights:
 tour_meal: true
 tour_coffee:
-tour_coconut: 
+tour_coconut:
 tour_swimming:
 tour_walking: true
 tour_hiking:

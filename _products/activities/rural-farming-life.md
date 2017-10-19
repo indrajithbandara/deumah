@@ -1,7 +1,7 @@
 ---
 name: Rural farming life
 subtitle: Explore Bali farmer life
-description: #
+description: At Undisan Village in Bangli, you will be welcomed by a local who will guide you to visit elementary school, walking through the inner side of the village. Arriving at the rice field area you will explore and perceives life as a Balinese traditional farmer.
 product_group: activities
 many_pictures: true
 image: /assets/p/products/activities/rural-farming-life.jpg #for OG and twitter cards

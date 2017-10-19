@@ -1,7 +1,7 @@
 ---
 name: Waterfall trekking
 subtitle: Refreshing
-description: #
+description: Our local guide will lead the walk through the inner side of the village, and to reach the Tangkup waterfall, passing by the rice fields, the coffee plantations, down through the path and across the bamboo bridge. The jump height is about 25 meters.
 product_group: activities
 many_pictures: true
 image: /assets/p/products/activities/waterfall-trekking.jpg #for OG and twitter cards
@@ -10,7 +10,7 @@ tour_days:
 tour_nights:
 tour_meal: true
 tour_coffee:
-tour_coconut: 
+tour_coconut:
 tour_swimming: true
 tour_walking: true
 tour_hiking: true
