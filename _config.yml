@@ -6,10 +6,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Balinese family compound offering tranquility. Experience the traditional Bali life in and eco friendly environment. We rent rooms, offer tasty food and organize activities for our guests.
 keywords: Bali, traditional, eco, eco-friendly, rooms, restaurant, activities, green
 lang: en_US
-version: 1.0.0
+version: 1.0.1
 
 baseurl: ""
-url: "https://deumah.junglestar.org"
+url: "https://deumah.netlify.com/"
 qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
 menu: short_menu # 'short_menu' or 'long_menu'
 
