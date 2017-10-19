@@ -171,13 +171,23 @@ blockquote p {
   padding-bottom: $vertical_rhythm--small;
 }
 
-.small_round_image {
-  float: left;
+.about-us .small_round_image {
+  width: 100%;
+  text-align: center;
+  @include media( "screen", ">bp1Width") {
+    float: left;
+    width: auto;
+    max-width: 50vw;
+    max-width: 300px;
+    max-height: 300px;
+    margin-right: $vertical_rhythm;
+    margin-bottom: $vertical_rhythm;
+  }
 
   img {
     border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
-    padding-right: $vertical_rhythm--small;
+    border: 4px solid $brand_color;
+    max-width: 270px;
+    max-height: 270px;
   }
 }
