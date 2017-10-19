@@ -1,0 +1,96 @@
+title: De Umah
+subtitle: Eco Traditional Homestay
+content_is_about: Our Offer # general content of website, used in footer menu title
+show_logo: show # 'show' or 'hide'
+description: > # this means to ignore newlines until "baseurl:"
+  Balinese family compound offering tranquility. Experience the traditional Bali life in and eco friendly environment. We rent rooms, offer tasty food and organize activities for our guests.
+keywords: Bali, traditional, eco, eco-friendly, rooms, restaurant, activities, green
+lang: en_US
+version: 1.0.0
+
+baseurl: ""
+url: "https://deumah.junglestar.org"
+qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
+menu: short_menu # 'short_menu' or 'long_menu'
+
+company:
+  name: De Umah
+  legal_name: De Umah Bali #if need to overrides 'company.name' in footer fill up this one
+  email: info@deumahbali.com
+  telephone: +62 8123811161
+  fax: +62 361467149
+  address: Undisan Klod, Tembuku, Bangli, Bali 80671
+  maplink: https://goo.gl/maps/ogGs5om7C6v
+  country: Indonesia
+  twitter: https://twitter.com/deumahbali
+  facebook_page: https://www.facebook.com/deumahbaliecotradihome/
+  youtube: https://youtu.be/asYas1ngGdg
+  instagram: #complete URL
+  linkedin: #complete URL
+  tripadvisor: #complete URL
+  booking: http://www.booking.com/Share-hMn1rH
+  airbnb: #complete URL
+  gplus: #complete URL
+  tumblr: #complete URL
+  soundcloud: #complete URL
+
+#SEO https://jekyll.github.io/jekyll-seo-tag/usage/
+#
+# SEO tag will use the YAML front matter if included in a post, page, or document:
+#
+# title
+# description
+# image - (e.g., /assets/page-pic.jpg)
+# author - Page-specific author (see below)
+# lang - Page-specific language
+
+author: rokma
+twitter:
+  username: rokmatwit
+facebook:
+  app_id: #Facebook app ID for Facebook insights
+  publisher: #Facebook page URL or ID of the publishing entity
+  admins: #Facebook user ID for domain insights linked to a personal account
+logo: /assets/favicons/apple-touch-icon-152x152.png
+webmaster_verifications:
+  google: google32e66f1a5601ec40
+
+
+google:
+  analytics: #
+
+# Build settings
+markdown: kramdown
+plugins:
+ - jekyll-seo-tag
+ - jekyll-redirect-from
+ - jekyll-sitemap
+ - html-proofer
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - package-lock.json
+  - Gemfile
+  - rakefile
+
+permalink: /:title/ # pretty
+
+collections:
+  products:
+    output: true
+    permalink: /:path/
+  pages:
+    output: true
+    permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product # change this to get the layout needed
+
+## NOTES:
+## 'product_group': must be singular and match the dir name in both assets and pages. Used in urls too.
+## title: it's used in headings only to get the plural as in 'tours'.
+## photos must be named same as 'page.title' and when more than 1 '{{page.title}}-02' and so on.
