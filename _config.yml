@@ -1,4 +1,4 @@
-title: De Umah
+title: De Umah Bali
 subtitle: Eco Traditional Homestay
 content_is_about: Our Offer # general content of website, used in footer menu title
 show_logo: show # 'show' or 'hide'
@@ -14,7 +14,7 @@ qr: show # 'show' or 'hide' put qr.svg in includes/defs.html call it: icn--qr
 menu: short_menu # 'short_menu' or 'long_menu'
 
 company:
-  name: De Umah
+  name: De Umah Bali
   legal_name: De Umah Bali #if need to overrides 'company.name' in footer fill up this one
   email: info@deumahbali.com
   telephone: +62 8123811161
@@ -34,8 +34,7 @@ company:
   tumblr: #complete URL
   soundcloud: #complete URL
 
-#SEO https://jekyll.github.io/jekyll-seo-tag/usage/
-#
+# SEO https://jekyll.github.io/jekyll-seo-tag/usage/
 # SEO tag will use the YAML front matter if included in a post, page, or document:
 #
 # title
@@ -43,7 +42,6 @@ company:
 # image - (e.g., /assets/page-pic.jpg)
 # author - Page-specific author (see below)
 # lang - Page-specific language
-
 author: rokma
 twitter:
   username: rokmatwit

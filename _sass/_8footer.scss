@@ -126,10 +126,11 @@
   font-size: 1.5rem;
   margin-top: $vertical_rhythm;
   margin-bottom: $vertical_rhythm;
-  text-align: center;
-  @include media( "screen", ">minWidth") {
-    // width: 24%;
-    text-align: left;
+  text-align: left;
+  svg {
+    width: 250px;
+    height: auto;
+    margin:0;
   }
 }
 
