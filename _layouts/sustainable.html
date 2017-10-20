@@ -1,0 +1,226 @@
+---
+
+---
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{page.lang}}{% else %}{{site.lang}}{% endif %}">
+
+  {% include head.html %}
+
+  <body class="{{page.title | slugify}} {% if site.menu %}{{ site.menu }}{% endif %}">
+
+    {% include svg/defs.html %}
+
+    {% include header.html %}
+
+    <div class="bungkus group">
+
+      <div class="container" role="main">
+
+        <div class="product_text">
+
+          <h1>{{page.page_h1}}</h1>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_01_title}}</h2>
+
+              {% capture icon1 %}{{page.section_01_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon1 }}">
+              	<use xlink:href="#icn--{{ icon1 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_01_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_02_title}}</h2>
+
+              {% capture icon2 %}{{page.section_02_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon2 }}">
+              	<use xlink:href="#icn--{{ icon2 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_02_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_03_title}}</h2>
+
+              {% capture icon3 %}{{page.section_03_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon3 }}">
+              	<use xlink:href="#icn--{{ icon3 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_03_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_04_title}}</h2>
+
+              {% capture icon4 %}{{page.section_04_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon4 }}">
+              	<use xlink:href="#icn--{{ icon4 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_04_text}}</p>
+
+          </section>
+
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_05_title}}</h2>
+
+              {% capture icon5 %}{{page.section_05_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon5 }}">
+              	<use xlink:href="#icn--{{ icon5 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_05_text}}</p>
+
+          </section>
+
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_06_title}}</h2>
+
+              {% capture icon6 %}{{page.section_06_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon6 }}">
+              	<use xlink:href="#icn--{{ icon6 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_06_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_07_title}}</h2>
+
+              {% capture icon7 %}{{page.section_07_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon7 }}">
+              	<use xlink:href="#icn--{{ icon7 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_07_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_08_title}}</h2>
+
+              {% capture icon8 %}{{page.section_08_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon8 }}">
+              	<use xlink:href="#icn--{{ icon8 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_08_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_09_title}}</h2>
+
+              {% capture icon9 %}{{page.section_09_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon9 }}">
+              	<use xlink:href="#icn--{{ icon9 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_09_text}}</p>
+
+          </section>
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_10_title}}</h2>
+
+              {% capture icon10 %}{{page.section_10_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon10 }}">
+              	<use xlink:href="#icn--{{ icon10 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_10_text}}</p>
+
+          </section>
+
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_11_title}}</h2>
+
+              {% capture icon11 %}{{page.section_11_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon11 }}">
+              	<use xlink:href="#icn--{{ icon11 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_11_text}}</p>
+
+          </section>
+
+
+          <section class="group">
+
+            <div class="section_head">
+              <h2>{{page.section_12_title}}</h2>
+
+              {% capture icon12 %}{{page.section_12_icon}}{% endcapture %}
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="{{ icon12 }}">
+              	<use xlink:href="#icn--{{ icon12 }}"></use>
+              </svg>
+            </div>
+
+            <p class="section_text">{{page.section_12_text}}</p>
+
+          </section>
+
+
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+    {% include script_ext_link.html %}
+
+    {% include script_append_to_copy_action.html %}
+
+    {% include script_google_analytics.html %}
+
+  </body>
+
+</html>
