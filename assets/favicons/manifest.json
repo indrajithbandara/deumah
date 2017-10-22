@@ -1,54 +1,53 @@
 {
-    "name": "De Umah Bali",
-    "start_url": "http:\/\/deumahbali.com",
+    "name": "deumahbali",
     "icons": [
         {
-            "src": "/android-chrome-36x36.png",
+            "src": "/assets/favicons/android-chrome-36x36.png?v=proper",
             "sizes": "36x36",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-48x48.png",
+            "src": "/assets/favicons/android-chrome-48x48.png?v=proper",
             "sizes": "48x48",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-72x72.png",
+            "src": "/assets/favicons/android-chrome-72x72.png?v=proper",
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-96x96.png",
+            "src": "/assets/favicons/android-chrome-96x96.png?v=proper",
             "sizes": "96x96",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-144x144.png",
+            "src": "/assets/favicons/android-chrome-144x144.png?v=proper",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/assets/favicons/android-chrome-192x192.png?v=proper",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
+            "src": "/assets/favicons/android-chrome-256x256.png?v=proper",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-384x384.png",
+            "src": "/assets/favicons/android-chrome-384x384.png?v=proper",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/assets/favicons/android-chrome-512x512.png?v=proper",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#000000",
-    "background_color": "#000000",
+    "theme_color": "#09a94b",
+    "background_color": "#09a94b",
     "display": "standalone"
 }
