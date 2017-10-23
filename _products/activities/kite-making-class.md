@@ -20,6 +20,6 @@ button_book_link:
 featured:
 ---
 
-Our staff will assist the children how to build a simple, easy-to-make kite and learn how to fly it around the fields. Paper kites making are a great experience for kids!
+Our staff will assist the children showing how to build a simple, easy-to-make kite and learn to fly it around the fields. Paper kites making is a great experience for kids!
 
 A young coconut will be served during the activity. The kite can be brought home as a gift.
