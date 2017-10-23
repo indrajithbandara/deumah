@@ -1,6 +1,6 @@
 ---
 name: Balinese Cooking lesson
-subtitle: Explore Bali farmer life
+subtitle: Secrets of authentic Balinese dishes
 description: Your day starts with visiting a traditional market. There you will find the ingredients for your cooking. Upon your arrival at a traditional house at Undisan village in Bangli you will be warmly welcomed by your local host who will guide you into the secrets of authentic Balinese dishes.
 product_group: activities
 many_pictures: true

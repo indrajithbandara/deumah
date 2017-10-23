@@ -1,6 +1,6 @@
 ---
 name: Yoga
-subtitle: Body and spirit ancient cure
+subtitle: Body and spirit ancient balance
 description: At our De Klumpu yoga pavilion, in the middle of the rice fields, you can enjoy one hour of yoga exercise. This class is excellent for beginners and provides an interesting approach for the experienced practitioner.
 product_group: activities
 many_pictures: true

@@ -1,6 +1,6 @@
 ---
 name: Wedding blessing
-subtitle: Details of a Bali charm
+subtitle: Details of Bali charm
 description: Be warmly welcomed by your local host at De Umah Bali. Umah is a Balinese word meaning home. Afterward, you will get the Balinese treatment Lulur, a body scrub with herbs and spices traditionally performed before wedding ceremony.
 product_group: activities
 many_pictures: true

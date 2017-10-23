@@ -1,6 +1,6 @@
 ---
 name: Balinese Gamelan class
-subtitle: Grace and funky poses
+subtitle: Learn to play the xylophone
 description: We will provide the simple Balinese Attire. Our Gamelan instructor will assist you to wear it. You will be guided through the basic steps to play the Indonesian xylophone called Gamelan. Mineral water will be served during the class.
 product_group: activities
 many_pictures: true

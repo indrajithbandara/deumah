@@ -1,6 +1,6 @@
 ---
 name: Kite making class
-subtitle: Explore Bali farmer life
+subtitle: Make it and play it
 description: Our staff will assist the children how to make a simple, easy-to-make kite and learn how to fly it around the field. Paper kite that are great for kids. A young coconut will be served during the activity. The kite can be brought home as a gift.
 product_group: activities
 many_pictures: true
