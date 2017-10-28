@@ -4,18 +4,15 @@
     fill: black;
   }
 }
-.logo_color {
-  fill: $brand_color;
-}
-.logo_color_white {
-  fill: white;
-}
 
-.logotext,
-#icn--deumahlogotext {
-  fill: $brand_color_2;
-}
 .sustainable .product_text svg {
   width: 100px;
   height: 100px;
+}
+
+.svg_color_brown {
+  fill: $brand_color_brown;
+}
+.svg_color_green {
+  fill: $brand_color_green;
 }

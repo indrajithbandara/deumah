@@ -145,16 +145,11 @@
     }
   }
 
-  .logotext {
-    max-height: 55px;
-    max-width: 260px;
-  }
-
   .logo {
     //svg
-    max-width: 70px;
     max-height: 70px;
-    margin-right: $vertical_rhythm--small/2;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 }
 
