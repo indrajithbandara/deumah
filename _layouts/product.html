@@ -133,7 +133,7 @@
         Slideshow(slideshowEl, {
           allowSwipe: true,
           showIndicators: true,
-          autoplay: false,
+          autoplay: {% if page.autoplay %}true{% else %}false{% endif %},
           // infinite loop
           loopSlides: true,
           transitionEffect: "slide"
