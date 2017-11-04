@@ -10,7 +10,7 @@ tour_days:
 tour_nights:
 tour_meal: true
 tour_coffee: true
-tour_coconut:
+tour_coconut: true
 tour_swimming:
 tour_walking:
 tour_hiking:
